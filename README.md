@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Portfolio Backend
 
 This is a production-ready, interview-quality backend built with Spring Boot, Spring Security, and JWT for a personal portfolio website.
@@ -126,3 +127,6 @@ All response bodies follow a consistent envelope structure:
 
 ## Postman Collection
 Import the provided Postman collection file `portfolio_api_collection.json` in root directory to start testing the APIs.
+=======
+# PiyushFolio-New-Backend
+>>>>>>> 1b1df1228460030f077c7fcd6422153e6ac96c5b
